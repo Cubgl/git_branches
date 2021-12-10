@@ -3,7 +3,8 @@ def main():
 
 
 def AuthorInfo():
-    print('Designed by OLO and Co')
+    name = 'OLO'
+    print(f'Designed by {name} and Co')
 
 
 if __name__ == '__main__':
