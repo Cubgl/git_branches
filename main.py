@@ -1,5 +1,5 @@
 def main():
-    pass
+    print('Game Super Boys')
 
 
 if __name__ == '__main__':
